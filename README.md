@@ -1,4 +1,3 @@
 # Homepage of Jack Jorgensen
 
-![mystuff](behold-stuff.gif)
-
+![mystuff](img/behold-stuff.gif)
